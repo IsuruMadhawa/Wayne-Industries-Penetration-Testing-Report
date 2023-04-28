@@ -1,0 +1,7 @@
+# Wayne-Industries-Penetration-Testing-Report
+For this report, a fictitious company called Sentinal Industry was penetration tested by a security  firm called CyberOps. The main goal or final output of this report was to find all possible  vulnerabilities and available exploits for those vulnerabilities available in Sentinal Industries
+For this report, a fictitious company called Sentinal Industry was penetration tested by a security firm called CyberOps. The main goal or final output of this report was to find all possible vulnerabilities and available exploits for those vulnerabilities available in Sentinal Industries. A 
+number of scanning tools (NMAP, Angry IP Scanner, Nessusd) were used in this process to detect all existing vulnerabilities and open ports. This discovery allowed our team to find all 
+open ports that attempted attacks on Sentinal Industries' systems. Sentinel Industries runs entirely on Metasploitable2. Metasploitable2 is a Linux-based operating system. Metasploitable2 has a 
+command line interface that helps you manage sensitive information about your customers. Metaspoitable2 is a very important asset in the Sentinal industry.Additionally, while viewing the report, we showed the first scan we ran and its results, and then the results of the scan, as mentioned above, the various types of attacks we attempted against 
+Sentinal Industries. Finally, after extensive analysis, we have included a full report vulnerability analysis, including possible recommendations
